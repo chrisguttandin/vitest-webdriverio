@@ -1,0 +1,17 @@
+{
+  "name": "vitest-webdriverio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/browser-webdriverio": "^4.0.15",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  },
+  "type": "module"
+}
